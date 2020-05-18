@@ -25,3 +25,8 @@
 - How might we increase the knowledge and skill set of RM’s?
 - How might we increase the scores of customers that that do not purchase holiday packages?
 
+**HMW Statements** - Employee
+- How might we improve workplace productivity for employees?
+- How might we improve our customer service?
+- How might we retain customers and attract new customers?
+- How might we provide customers with accurate information about their chosen destination?
