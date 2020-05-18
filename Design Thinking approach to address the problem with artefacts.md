@@ -30,3 +30,4 @@
 - How might we improve our customer service?
 - How might we retain customers and attract new customers?
 - How might we provide customers with accurate information about their chosen destination?
+- How might we increase the sales of holiday packages to customers?
