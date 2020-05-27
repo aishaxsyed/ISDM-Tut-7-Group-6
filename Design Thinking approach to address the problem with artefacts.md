@@ -2,6 +2,15 @@
 - Develop HMW questions from POV statements
 - Use stages 1 and 2 from Design Thinking
 
+**Stakeholders:**
+- Customers + repeat clients
+- CMC Employees
+- Relationship Managers (RMs)
+- Developers & Designers
+- IT Technicians & Testers
+- Sponsors for holiday packages/Investors
+- Travel Specialists/Representatives
+
 **Assumptions and ideas based on case study**
 - We assume that the company is understaffed.
 - We assume the CMC is a real-life physical office with multiple CMC locations across the globe.
