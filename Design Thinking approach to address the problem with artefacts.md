@@ -22,6 +22,7 @@
 - We assume the employee questionnaire will be a general questionnaire that all employees are required to take. The questionnaire might include things like their knowledge about current holiday packages, have they and how long have they been a part of the travel industry? Do they have any previous customer service experience? What is their language proficiency? What areas of travel expertise are they most confident with? E.g. flight bookings, hotel bookings, transportation bookings and itinerary planning
 - We assume the CMC database is synced with the travel company's database.
 - We assume a customer profile is automatically created if there is not an existing profile in the system.
+- We assume all calls are recorded and consent has been acquired so that RM and customer profiles are automatically updated after each call.
 
 **HMW Statements** - Relationship Managers (RM's)
 - How might we provide support to relationship managers? 
