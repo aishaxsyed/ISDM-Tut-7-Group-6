@@ -20,6 +20,8 @@
 - We assume employees over the phone handle customer enquiries, gives quotes and information on holiday packages and process sales. 
 - We assume segmented customers are matched to the closest RM in their region or with the correct expertise in their region.
 - We assume the employee questionnaire will be a general questionnaire that all employees are required to take. The questionnaire might include things like their knowledge about current holiday packages, have they and how long have they been a part of the travel industry? Do they have any previous customer service experience? What is their language proficiency? What areas of travel expertise are they most confident with? E.g. flight bookings, hotel bookings, transportation bookings and itinerary planning
+- We assume the CMC database is synced with the travel company's database.
+We assume a customer profile is automatically created if there is not an existing profile in the system.
 
 **HMW Statements** - Relationship Managers (RM's)
 - How might we provide support to relationship managers? 
