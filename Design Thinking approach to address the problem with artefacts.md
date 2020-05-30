@@ -11,6 +11,15 @@
 - Sponsors for holiday packages/Investors
 - Travel Specialists/Representatives
 
+**Design Thinking Principles**
+1. Empathise
+2. Define
+3. Ideate
+4. Prototype
+5. Test
+
+**Agile Methodology (Scrum)**
+
 **Assumptions and ideas based on case study**
 - We assume that the company is understaffed.
 - We assume the CMC is a real-life physical office with multiple CMC locations across the globe.
