@@ -1,5 +1,16 @@
 # ISDM-Tut-7-Group-6
 
+### Empathy Maps
+##### Customer
+![](https://user-images.githubusercontent.com/62279254/81886223-79af5200-95df-11ea-90de-ade42c5b2204.png)
+
+##### Relationship Manager
+![](https://user-images.githubusercontent.com/62288158/81824370-bf84ff80-9578-11ea-97f8-21822899df12.jpg)
+
+##### Employee
+![](https://user-images.githubusercontent.com/62487854/82007534-d37e4d80-96ad-11ea-8c76-0caa460fcc62.png)
+
+
 ## Workproducts and Models
 ### Use Case Diagram
 ![](https://github.com/aishaxsyed/ISDM-Tut-7-Group-6/blob/master/Use%20Case%20Diagram.png)
