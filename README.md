@@ -10,3 +10,6 @@
 
 ### Class Diagram
 ![](https://user-images.githubusercontent.com/62279254/83324877-6f61a900-a2ab-11ea-8a22-9e56d407a74f.png)
+
+### Collaboration Diagram
+![](https://user-images.githubusercontent.com/62279254/83324927-c2d3f700-a2ab-11ea-8e88-ae2d9262ee62.png)
