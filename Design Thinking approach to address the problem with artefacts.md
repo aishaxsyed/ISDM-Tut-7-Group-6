@@ -12,7 +12,18 @@
 - Travel Specialists/Representatives
 
 **Design Thinking Principles**
+
+Design Thinking is an important and useful approach in solving the travel company’s problem. The systematic problem solving approach required is split into five main steps.
+Empathise
+Define
+Ideate
+Prototype
+Test
+
 1. Empathise
+
+The first step is to empathise, which is to understand the client’s needs and requirements. Empathy maps are a useful visual technique to effectively gain an insight into the client’s perspective by putting ourselves in the user’s shoes. Empathy maps were created for Relationship Managers (RMs), employees and customers to delve deeper into their minds.
+
 2. Define
 3. Ideate
 4. Prototype
