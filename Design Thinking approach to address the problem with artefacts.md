@@ -1,4 +1,4 @@
-**Reflection, Ideas, Assumptions and HMW Questions**
+**<h2>Reflection, Ideas, Assumptions and HMW Questions</h2>**
 - Develop HMW questions from POV statements
 - Use stages 1 and 2 from Design Thinking
 
