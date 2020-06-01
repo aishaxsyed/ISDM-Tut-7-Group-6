@@ -50,7 +50,7 @@ In this stage, point of view statements are being transformed into how might we 
 - How might we be able to take more calls and reduce wait times?
 - How might we make it easier for customers to choose holiday packages?
 - How might we increase the knowledge and skill set of RM’s?
-- How might we increase the scores of customers that that do not purchase holiday packages?
+- How might we increase the scores of customers that do not purchase holiday packages?
 
 **HMW Statements** - Employee
 - How might we improve workplace productivity for employees?
