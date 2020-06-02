@@ -37,7 +37,7 @@ Using these, the problem had been defined and the required system features and f
 
 3. Ideate
 
-In this stage, point of view statements are being transformed into how might we questions. These questions are:
+In this stage, point of view statements are being transformed into how might we questions. This allows us to develop solutions later on. These questions are:
 
 **HMW Statements** - Relationship Managers (RM's)
 - How might we provide support to relationship managers? 
@@ -69,7 +69,8 @@ In this stage, feature and functionalities were brainstormed, including:
 - Recording the subsequent performance of relationship managers in an efficient manner. Priority: LOW.
 
 4. Prototype
-5. Test
+
+In this stage we focused on creating use case, activity, class and collaborative diagrams. Prototyping potential solutions enables us to understand how the potential system will look.
 
 **Agile Methodology (Scrum)**
 
