@@ -11,6 +11,6 @@ The development of this system requires the use of software development methodol
 3. Empathy Maps and POV Statements have been captured in an issue and as a file in the code section.
 4. The backlog of initial requirements has been captured in the issue ‘Backlog’.
 5. Workproducts such as Use Case, Activity, Class and Collaborative Diagrams have been captured in issues and in the code section as png.images.
-6. Competitive advantages and possible effects if the project fails captured as a file in code section.
+6. Competitive advantages and possible effects if the project fails captured as a file in the code section.
 
 
