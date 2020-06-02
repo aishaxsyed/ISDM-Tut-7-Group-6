@@ -74,6 +74,10 @@ In this stage we focused on creating use case, activity, class and collaborative
 
 **Agile Methodology (Scrum)**
 
+As seen in agile methodology, customers are seen as the most important part for developing potential features. During this project, the customer was the focal point for decision making during this project. 
+
+For this project, we initially created a product backlog with a list of features for the potential CMC system with the customer in mind. Over the weeks, we went through the process of backlog refinement to select the most appropriate features for the system. With the help of labeling we prioritised these features to be later used in our prototype diagrams. Furthermore, the project board feature in GitHub mimics the boards commonly used in agile methodology because of its simplicity and flexibility which enabled us to control our tasks and collaborate more efficiently with each other. Additionally, the project board allowed us to gain a clear understanding of what work was to be done and to communicate to other team members about the status of our project. Lastly, another element of agile methodology is the concept of self managing teams. It was crucial for our team to be self organising and be in constant communication to complete this project
+
 
 **Assumptions and ideas based on case study**
 - We assume that the company is understaffed.
